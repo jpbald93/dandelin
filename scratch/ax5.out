@@ -1,0 +1,13 @@
+'Dandelin.hyp_both_nappes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.ellipse_nonempty' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.section_unbounded' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.one_nappe' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.ellipse_regime' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.bounded_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.ellipse_regime_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.hyperbola_regime_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.parabola_regime' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.abs_lt_of_both_nappes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.regime_R3' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Dandelin.exists_unit_orth' depends on axioms: [propext, Classical.choice, Quot.sound]
+AXEXIT 0
