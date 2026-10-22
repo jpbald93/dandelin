@@ -5,3 +5,5 @@ import Dandelin.Hyperbola
 import Dandelin.Regime
 import Dandelin.Degenerate
 import Dandelin.Bridge
+import Dandelin.L14
+import Dandelin.L15Classical
